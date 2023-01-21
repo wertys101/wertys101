@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Alex SOsa and my major is Game Studies and Design. I'm currently learning about the in's and out's of Unity while simultaneously working on a semester long Unity project. I'm an artist who makes 2D digital art, and I even made prototype games using a browser software called Construct3. You can reach me using my school email asosa001@odu.edu.
+My name is Alex Sosa and my major is Game Studies and Design. I'm currently learning about the in's and out's of Unity while simultaneously working on a semester long Unity project. I'm an artist who makes 2D digital art, and I even made prototype games using a browser software called Construct3. You can reach me using my school email asosa001@odu.edu.
 <!--
 **wertys101/wertys101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
